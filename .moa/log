@@ -1,0 +1,9 @@
+new	new	10	2014-10-01T11:40:31.005116	2014-10-01T11:40:31.152562	0:00:00.147446	/home/cfphxd/pinf/bin/moa new bwa_aln -t test
+error	unittest	10	2014-10-01T11:41:28.954536	2014-10-01T11:41:32.295532	0:00:03.340996	/home/cfphxd/pinf/bin/moa unittest
+error	unittest	10	2014-10-01T11:41:28.954536	2014-10-01T11:41:32.296455	0:00:03.341919	/home/cfphxd/pinf/bin/moa unittest
+error	gitadd	10	2014-10-01T11:49:49.322242	2014-10-01T11:49:49.355567	0:00:00.033325	/home/cfphxd/pinf/bin/moa gitadd
+error	gitadd	10	2014-10-01T11:50:33.920154	2014-10-01T11:50:33.951366	0:00:00.031212	/home/cfphxd/pinf/bin/moa gitadd
+error	gitadd	10	2014-10-01T11:52:42.346882	2014-10-01T11:52:42.377186	0:00:00.030304	/home/cfphxd/pinf/bin/moa gitadd
+error	gitadd	10	2014-10-01T11:54:18.150979	2014-10-01T11:54:18.182102	0:00:00.031123	/home/cfphxd/pinf/bin/moa gitadd
+error	gitadd	10	2014-10-01T11:57:00.193063	2014-10-01T11:57:00.224989	0:00:00.031926	/home/cfphxd/pinf/bin/moa gitadd
+error	gitadd	10	2014-10-01T11:57:56.314159	2014-10-01T11:57:56.345860	0:00:00.031701	/home/cfphxd/pinf/bin/moa gitadd

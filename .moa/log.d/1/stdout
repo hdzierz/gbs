@@ -1,0 +1,6 @@
+Moa: Created a "bwa_index" job
+Moa: with title "create a demo database"
+Moa: setting "input_fasta" to "/home/cfphxd/pinf/lib/python2.7/site-packages/moa-0.11.19-py2.7.egg/share/test/test.fasta"
+Moa: setting "prefix" to "testDB"
+
+Error: Not a file: input=*/*.fasta 

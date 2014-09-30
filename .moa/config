@@ -1,0 +1,9 @@
+db: tt.fa
+input: '*/*.fq'
+jobid: moa_test
+moa_filesets:
+- input
+- output
+output: ./*.sai
+process: ls()
+title: test

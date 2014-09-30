@@ -1,0 +1,7 @@
+class: core
+enabled: true
+installed: '2014-10-01T11:40:31.075870'
+name: bwa_aln
+priority: 100
+provider: core
+provider_type: core
